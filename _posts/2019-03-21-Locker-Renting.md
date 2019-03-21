@@ -11,7 +11,8 @@ comments: true
 ---
 
 ![LockerImg](https://user-images.githubusercontent.com/10339017/54734183-24490200-4be1-11e9-9bc7-5f6e3b62b748.png)
-<center>See a [source of this proejct](https://github.com/flokker/Object_Programming) hosted on GitHub.</center>
+<center>See a [source of this project](https://github.com/flokker/Object_Programming) hosted on GitHub.</center>
+
 
 ## Project summary
 * 이 프로젝트는 객체지향설계 능력을 함양시키기 위해 시작된 프로젝트입니다.
