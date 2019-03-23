@@ -11,7 +11,7 @@ comments: true
 ---
 
 ![LockerImg](https://user-images.githubusercontent.com/10339017/54734183-24490200-4be1-11e9-9bc7-5f6e3b62b748.png)
-<center>See a [source of this project](https://github.com/flokker/Object_Programming) hosted on GitHub.</center>
+<center>See a [<a href="https://github.com/flokker/Object_Programming">source of this project</a>] hosted on GitHub.</center>
 
 
 ## Project summary
