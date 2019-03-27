@@ -17,3 +17,7 @@ comments: false
 * C++, Java
 * HTML, CSS, Javascript
 * Node.js
+
+## Contanct
+* E-mail: myungho.dev@gmail.com
+* Call: 010-5388-2783
