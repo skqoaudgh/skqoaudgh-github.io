@@ -15,10 +15,15 @@ comments: true
 
 
 ## Project summary
+* 이 프로젝트는 팀 프로젝트입니다.
 * 이 프로젝트는 객체지향설계 능력을 함양시키기 위해 시작된 프로젝트입니다.
 * 이 프로젝트는 Java Swing을 이용한 GUI 사물함 관리및 신청 어플리케이션을 목표로 합니다.
 * 엑셀을 데이터베이스로서 사용하기 위해 아파치 POI를 사용했습니다.
      
+
+## Tech Stack
+* Java Swing
+
 
 ## Feature
 * GUI를 이용하여 사물함의 관리 및 신청
