@@ -43,9 +43,6 @@ comments: true
 
 ## Screenshots
 {% capture images %}
-	https://user-images.githubusercontent.com/10339017/58608235-9757ae80-82dd-11e9-9540-5d6ab70b3b2f.PNG
-	https://user-images.githubusercontent.com/10339017/58608239-99217200-82dd-11e9-8fd1-592126ebff17.PNG
-  https://user-images.githubusercontent.com/10339017/58608240-99ba0880-82dd-11e9-9108-fb4c5b1d2bcb.PNG
-  https://user-images.githubusercontent.com/10339017/58608242-9aeb3580-82dd-11e9-8839-94668e56aab5.PNG
+	https://user-images.githubusercontent.com/10339017/58616567-eced8480-82f8-11e9-84f5-f709b9338f6c.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of project" cols=2 %}
+{% include gallery images=images caption="Screenshots of project" cols=1 %}
