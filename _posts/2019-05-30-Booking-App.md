@@ -2,7 +2,7 @@
 layout: post
 title:  "Event booking web application"
 date:   2019-05-30
-excerpt: " "
+excerpt: "Make event and booking with web easily"
 project: true
 tag:
 - project
