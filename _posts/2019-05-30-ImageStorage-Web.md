@@ -2,7 +2,7 @@
 layout: post
 title:  "Image Storage web application"
 date:   2019-05-30
-excerpt: " "
+excerpt: "Wanna keep funny image or something?"
 project: true
 tag:
 - project
