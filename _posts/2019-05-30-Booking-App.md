@@ -41,7 +41,7 @@ comments: true
 * 계정을 등록할 수 있고 로그아웃 전 까지 계속 로그인이 유지됩니다.
 
 
-# I learn this
+## I learn this
 * React.js Context API를 이용한 상태관리
 * GraphQL을 이용한 Endpoint 설계 및 구현 방법
 * JWT의 토큰 방식의 계정 시스템 (계정생성, 로그인)
