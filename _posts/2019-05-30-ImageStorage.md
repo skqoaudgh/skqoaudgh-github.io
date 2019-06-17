@@ -14,7 +14,7 @@ comments: true
 ---
 
 ![LockerImg](https://user-images.githubusercontent.com/10339017/58633752-69e22380-8324-11e9-8a1f-fbe2d0f51c65.png)
-<center>See a [<a href="https://github.com/skqoaudgh/Web-BakjeStorage">source of this project</a>] hosted on GitHub.</center>
+<center>See a [<a href="https://github.com/skqoaudgh/Web-graphQL-React-BakjeStorage">source of this project</a>] hosted on GitHub.</center>
 
 
 ## Summary
