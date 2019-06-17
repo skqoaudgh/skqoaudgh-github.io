@@ -17,7 +17,7 @@ comments: true
 <center>See a [<a href="https://github.com/skqoaudgh/graphQL-React-BookingApp">source of this project</a>] hosted on GitHub.</center>
 
 
-## Project summary
+## Summary
 * 이 프로젝트는 개인 프로젝트입니다.
 * 웹을 통해 이벤트(행사)를 등록하고 다른 사용자가 예약할 수 있도록 합니다.
      
@@ -39,6 +39,12 @@ comments: true
 * 제목, 가격, 시간, 설명을 작성하여 이벤트를 등록할 수 있습니다.
 * 등록된 이벤트를 예약할 수 있고, 예약한 이벤트에 대한 통계를 그래프로 확인할 수 있습니다.
 * 계정을 등록할 수 있고 로그아웃 전 까지 계속 로그인이 유지됩니다.
+
+
+# I learn this
+* React.js Context API를 이용한 상태관리
+* GraphQL을 이용한 Endpoint 설계 및 구현 방법
+* JWT의 토큰 방식의 계정 시스템 (계정생성, 로그인)
 
 
 ## Screenshots
