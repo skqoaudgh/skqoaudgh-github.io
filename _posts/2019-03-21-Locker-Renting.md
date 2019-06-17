@@ -14,7 +14,7 @@ comments: true
 <center>See a [<a href="https://github.com/flokker/Object_Programming">source of this project</a>] hosted on GitHub.</center>
 
 
-## Project summary
+## Summary
 * 이 프로젝트는 팀 프로젝트입니다.
 * 이 프로젝트는 객체지향설계 능력을 함양시키기 위해 시작된 프로젝트입니다.
 * 이 프로젝트는 Java Swing을 이용한 GUI 사물함 관리및 신청 어플리케이션을 목표로 합니다.
@@ -22,7 +22,8 @@ comments: true
      
 
 ## Tech Stack
-* Java Swing
+* Java
+* Apache POI 라이브러리
 
 
 ## Feature
@@ -34,10 +35,17 @@ comments: true
 * 엑셀로 데이터가 저장되어 관리
 
 
-## My part of project
+## This is my Part
 * 데이터 관리및 검색 기능
 * GUI와 Operation의 인터페이스 연동
 * POI 라이브러리를 이용한 엑셀 연동
+
+
+## I learn this
+* 객체지향설계 방법
+* Swing을 이용한 자바 GUI 코딩
+* 인터페이스 형식 통일화의 중요성
+
 
 ## Screenshots
 {% capture images %}
