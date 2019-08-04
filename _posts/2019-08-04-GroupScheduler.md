@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Group Scheduler
+title:  "Group Scheduler"
 date:   2019-08-04
 excerpt: "Make schedules with many peaple"
 project: true
