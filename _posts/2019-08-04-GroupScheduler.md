@@ -49,7 +49,7 @@ comments: true
 * Node.js의 라우팅
 * multer 패키지를 이용한 파일 업로드
 * bitly API
-
+* AWS Lightsail Node.js 배포
 
 ## Screenshots
 {% capture images %}
