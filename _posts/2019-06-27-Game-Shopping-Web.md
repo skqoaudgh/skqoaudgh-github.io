@@ -56,3 +56,10 @@ comments: true
 	https://user-images.githubusercontent.com/10339017/59606013-0f7dfb00-914b-11e9-9a49-aee62ae74351.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of project" cols=1 %}
+
+
+## Reference
+[Academind Node.js, MongoDB Shopping Cart Tutorial (Youtube)](https://www.youtube.com/watch?v=-3vvxn78MH4&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp&index=2)
+* 이 튜토리얼을 참고하여 프로젝트를 진행하였으며 아래의 사항을 새롭게 추가하여 개발하였습니다.
+  1. 자바스크립트 최신 문법 적용 (let, const, arrow function, async/await)
+  2. 라우터의 세분화
