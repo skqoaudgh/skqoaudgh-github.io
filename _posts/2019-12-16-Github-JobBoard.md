@@ -13,8 +13,8 @@ tag:
 comments: true
 ---
 
-![server-client-exchange](https://user-images.githubusercontent.com/10339017/64757486-478bb300-d56d-11e9-91e9-0d1bc5dbca3f.png)
-<center>See a [<a href="https://github.com/skqoaudgh/Node.js-React-EverydayPlanner">source of this project</a>] hosted on GitHub.</center>
+![](https://user-images.githubusercontent.com/10339017/85363410-d47f8600-b55b-11ea-8454-f182975d62e3.png)
+<center>See a [<a href="https://github.com/skqoaudgh/job-board-app">source of this project</a>] hosted on GitHub.</center>
 
 
 ## Summary
